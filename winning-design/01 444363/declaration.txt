@@ -1,0 +1,29 @@
+Declaration Files
+KG Layers UI Redesign Challenge
+URL: https://www.topcoder.com/challenges/09410dd4-5924-4a3f-a43b-8dbab6317a70
+
+Fonts
+1. Font Name: Karbon Test
+   Note: Provided by copilot as the challenge assets
+
+2. Font Name: Arial
+   Note: Default OS font
+
+Icons
+1. material.io
+
+2. feathericons.com
+
+3. flaticon.com
+
+https://www.flaticon.com/free-icon/table-for-data_38932?term=data%20table&page=1&position=94&page=1&position=94&related_id=38932
+
+https://www.flaticon.com/free-icon/scatter-graph_734531?term=plot&page=1&position=30&page=1&position=30&related_id=734531
+
+https://www.flaticon.com/free-icon/connection_809504?related_id=809504
+
+https://www.flaticon.com/free-icon/radar_3815401?term=radar%20chart&page=1&position=1&page=1&position=1&related_id=3815401&origin=style
+
+https://www.flaticon.com/free-icon/sort-arrows-couple-pointing-up-and-down_25756?term=sort&page=1&position=3&page=1&position=3&related_id=25756&origin=search
+
+https://www.flaticon.com/packs/font-awesome/2
